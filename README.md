@@ -28,12 +28,12 @@ sudo python setup.py install
 Description:
 This program asks the user to input their name as well as their favorite artist. Then the program prints out there name and the artist as well as compliments them on their artist choice.
 
-'def getartist():
-    name = input("What's your name?")
-    artist = input("What is your favorite artist?")
-    print("Wow great choice", name, ",", artist, "releases some hit songs!")
+    'def getartist():
+        name = input("What's your name?")
+        artist = input("What is your favorite artist?")
+        print("Wow great choice", name, ",", artist, "releases some hit songs!")
     
-getartist()'
+    getartist()'
 
 After printing out the above line of code, the user will shown how many other users entered that artist and a percentage of total users who entered the same artist.
 
