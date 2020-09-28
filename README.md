@@ -26,3 +26,15 @@ sudo python setup.py install
 
 Description:
 This program asks the user to input their name as well as their favorite artist. Then the program prints out there name and the artist as well as compliments them on their artist choice.
+
+### Contributing
+
+Thank you for considering contributing to our project! 
+
+We ask that you send us a message on GitHub before making any changes and that you also document any changes through commits. Please also update the README.md to reflect your changes.
+
+While making changes, be sure to follow our [Code of Conduct](https://github.com/jog141/repo-project/blob/master/CODE-OF-CONDUCT.md). 
+
+Please note that if anyone violates the Code of Conduct we will restrict them from making any changes.
+
+Again, thank you so much for contributing to our project, and we hope you have fun!
