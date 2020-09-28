@@ -10,7 +10,7 @@
 
 ### Installation
 
-Our software is open-sourced and avalabile for installation, contribution, usage, and alteration by any individual. To retrieve our program, you can either pip install it or download the repo and install directly in Github. 
+Our software is open-sourced and avalabile for installation, contribution, usage, and alteration by any individual. To fork our program, you can either pip install it or download the repo and install directly in Github. 
 
 Here's how you do so with pip:
 ```
