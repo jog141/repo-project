@@ -1,5 +1,5 @@
 **[Installation](#installation)** |
-**[Useage](#usage)** |
+**[Usage](#usage)** |
 **[Contributing](#contributing)** |
 **[License](#license)** |
 **[Code of Conduct](#code)** |
@@ -39,3 +39,8 @@ While making changes, be sure to follow our [Code of Conduct](https://github.com
 Please note that if anyone violates the Code of Conduct we will restrict them from making any changes.
 
 Again, thank you so much for contributing to our project, and we hope you have fun!
+
+### License
+
+
+### Code of Conduct
