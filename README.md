@@ -28,6 +28,19 @@ sudo python setup.py install
 Description:
 This program asks the user to input their name as well as their favorite artist. Then the program prints out there name and the artist as well as compliments them on their artist choice.
 
+'def getartist():
+    name = input("What's your name?")
+    artist = input("What is your favorite artist?")
+    print("Wow great choice", name, ",", artist, "releases some hit songs!")
+    
+getartist()'
+
+After printing out the above line of code, the user will shown how many other users entered that artist and a percentage of total users who entered the same artist.
+
+Then user will then be prompted to enter in 'yes' or 'no' if they want to see the artist's latest music video. If they said 'yes', they will be taken to the YouTube page for the video, otherwise the program will end.
+
+This program can allow the user to stay updated on the latest music from the artist as well as see how many people also like this artist.
+
 ### Contributing
 
 Thank you for considering to contribute to our project! 
