@@ -29,7 +29,7 @@ This program asks the user to input their name as well as their favorite artist.
 
 ### Contributing
 
-Thank you for considering contributing to our project! 
+Thank you for considering to contribute to our project! 
 
 We ask that you send us a message on GitHub before making any changes and that you also document any changes through commits. Please also update the README.md to reflect your changes.
 
