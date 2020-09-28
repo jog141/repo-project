@@ -2,7 +2,7 @@
 **[Useage](#usage)** |
 **[Contributing](#contributing)** |
 **[License](#license)** |
-**[Code of Conduct](#code of conduct)** |
+**[Code of Conduct](#code)** |
 
 # Group Project by Joy Gimei and Hannah Mencer
 ## Creator: Joy Gimei
