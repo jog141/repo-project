@@ -5,8 +5,8 @@
 **[Code of Conduct](#code)** |
 
 # Group Project by Joy Gimei and Hannah Mencer
-## Creator: Joy Gimei
-## Collaborator: Hannah Mencer
+#### Creator: Joy Gimei
+#### Collaborator: Hannah Mencer
 
 ### Installation
 
