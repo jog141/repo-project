@@ -23,6 +23,7 @@ git clone https://github.com/jog141/repo-project
 cd repo-project
 sudo python setup.py install  
 ```
+### Usage
 
 Description:
 This program asks the user to input their name as well as their favorite artist. Then the program prints out there name and the artist as well as compliments them on their artist choice.
