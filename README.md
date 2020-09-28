@@ -28,7 +28,7 @@ Our piece of software is under the MIT lisence / X11 lisence because we aren't v
 ### Usage
 
 Description:
-This program asks the user to input their name as well as their favorite artist. Then the program prints out there name and the artist as well as compliments them on their artist choice.
+This program asks the user to input their name as well as their favorite artist. Then the program prints out there name and the artist as well as compliments them on their artist choice. After this is executed our program 
 
 ### Contributing
 
