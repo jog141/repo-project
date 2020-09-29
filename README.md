@@ -63,6 +63,6 @@ We chose this license because it was an open source license that allows the cont
 
 ### Code of Conduct
 
-The Code of Conduct we chose was the [Contributor Covenant] ( 
+The Code of Conduct we chose was the [Contributor Covenant] (https://github.com/jog141/repo-project/blob/master/CODE-OF-CONDUCT.md)
 
 We chose this one because it very well articulated the way we want our program to be used. Anyone can have an opinion on music, so it's important that the content our users implement into our program isn't offensive or inappropriate for any audience. We also agreed with the consequences the Contributor Covenant has in place if there is violation these rules.
